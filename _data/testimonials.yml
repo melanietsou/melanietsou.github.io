@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Hamid Shafie
+  title: President @ AIID
+  testimonial: "Melanie's marketing plan had a major impact on the success of a collaborative program between AIID and The Ritz Carlton Leadership Center. Regardless of the task, whether it was internal marketing during AIID courses or maintaining the website, she would always put forth her best effort."
+  image: img/Hamid-Shafie.png
+- name: Clive Russell
+  title: Manager @ The Law Society
+  testimonial: "Melanie ran a successful LinkedIn campaign as part of the marketing mix for the Law Society HR Forum. Melanie shared her learnings from the LinkedIn element of the campaign with her colleagues and subsequently, we have run other LinkedIn campaigns."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+- name: Omar Al-Midani
+  title: President @ PureLife
+  testimonial: "Melanie is a talented and hardworking problem solver. Perhaps one thing that really sets her apart is her creativity. Melanie would be a great asset to any organization, large or small and would work very well in a team environment."
   image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+- name: Scott Price
+  title: Senior Manager @ PureLife
+  testimonial: "Melanie was an asset to our Marketing Department. She is thorough and detail-oriented and excels at completing tasks in a timely manner. She also proposed interesting and outside-the-box ideas for new projects (especially new customer acquisition strategies)."
   image: img/item-img1.jpg
