@@ -1,12 +1,12 @@
-- counter: 4
+- counter: 5
   icon: ion-ios-chatboxes-outline
-  text: Languages Studied (5 including Latin)
-- counter: 39
+  text: Languages Studied
+- counter: 40
   icon: ion-earth
   text: Countries Visited
 - counter: 2
   icon: ion-image
   text: Websites Built
-- counter: 1
+- counter: 2
   icon: ion-ios-compose-outline
   text: Book Written (In-Progress!)
