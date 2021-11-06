@@ -1,5 +1,5 @@
 - counter: 5
-  icon: ion-ios-chatboxes-outline
+  icon: ion-ios-chatboxes
   text: Languages Studied
 - counter: 40
   icon: ion-earth
@@ -8,5 +8,5 @@
   icon: ion-image
   text: Websites Built
 - counter: 2
-  icon: ion-ios-compose-outline
-  text: Book Written (In-Progress!)
+  icon: ion-ios-book
+  text: Books Written (In-Progress!)
