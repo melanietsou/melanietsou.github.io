@@ -5,7 +5,7 @@
   icon: ion-earth
   text: Countries Visited
 - counter: 2
-  icon: ion-laptop
+  icon: ion-android-desktop
   text: Websites Built
 - counter: 2
   icon: ion-ios-book
